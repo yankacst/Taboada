@@ -1,0 +1,38 @@
+body{
+    background-color: white;
+    color: rgb(71, 71, 71);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+header{
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 33vw;
+}
+
+section {
+    background-color: rgb(205, 202, 202);
+    padding: 20px;
+    border-radius: 30px;
+    width: 30%;
+    margin: auto;
+}
+
+#botao{
+    background-color:rgb(159, 12, 117);
+    color: rgb(239,235,228);
+    border: 0px;
+    width: 150px;
+    height: 30px;
+    border-radius:30px ;
+}
+
+.form{
+    margin: 10px;
+    border-radius: 18px;
+    border: 0px;
+    height: 20px;
+    width: 200px;
+}
